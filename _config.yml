@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://sanyambansal76.github.io
+url: http://sanyambansal76.github.io/indigo/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -47,7 +47,7 @@ github: sanyambansal76
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: sanyambansal76@gmail.com
